@@ -1,2 +1,14 @@
-# Pomodro_Timer
-A productivity-focused Pomodoro Timer app using HTML/CSS/JS. Includes a countdown timer, start/pause/reset buttons, and custom background visuals.
+# Pomodoro Timer
+
+A simple Pomodoro Timer built using HTML, CSS, and JavaScript.
+
+## Features
+- 25-minute countdown timer
+- Start, Pause, and Reset buttons
+- Responsive and clean design
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
