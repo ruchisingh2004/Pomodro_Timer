@@ -1,5 +1,4 @@
 # Pomodoro Timer
-
 A simple Pomodoro Timer built using HTML, CSS, and JavaScript.
 
 ## Features
